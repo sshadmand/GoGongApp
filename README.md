@@ -7,7 +7,7 @@ Or, check out the GoGong Server repo: https://github.com/sshadmand/GoGongServer
 
 # How to Use the App
 
-### Update App Preferences
+### 1. Update App Preferences
 
 In order for the upload and clipboard copy to take place, you must ensure that the apps API URL is pointing to your server.
 
@@ -19,7 +19,11 @@ Then select preferences and input the correct server address:
 
 ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/preferences.png)
 
-### Just Use Screen Capture
+### 2. Use Mac's Built-in Screen Capture Function
 
 The app listens for screen captures on your mac. Simply use the standard screen capture tool. You can learn more about the built in Mac screen capture tool here: https://support.apple.com/en-us/HT201361
+
+### 3. Capture is Clipboarded
+
+Once the screen capture is automatically uploaded to your personal server, you will hear a gong sound. That means the upload is complete and the newly created image URL is now copied to your clipboard. You can paste it anywhere you'd like using CMD+V.
 
