@@ -5,3 +5,9 @@ Learn more at our home page: https://sshadmand.github.io/GoGong/
 
 Or, check out the GoGong Server repo: https://github.com/sshadmand/GoGongServer
 
+# How to Use the App
+
+### Update App Preferences
+
+In order for the upload and clipboard copy to take place, you must ensure that the apps API URL is pointing to your server. ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/preferences.png)
+
