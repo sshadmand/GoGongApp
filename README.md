@@ -11,5 +11,11 @@ Or, check out the GoGong Server repo: https://github.com/sshadmand/GoGongServer
 
 In order for the upload and clipboard copy to take place, you must ensure that the apps API URL is pointing to your server.
 
+After starting the app it will show up in your menubar. Click the icon to display the menu:
+
+![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/menu.png)
+
+Then select preferences and inpuy the correct server address:
+
 ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/preferences.png)
 
