@@ -9,5 +9,7 @@ Or, check out the GoGong Server repo: https://github.com/sshadmand/GoGongServer
 
 ### Update App Preferences
 
-In order for the upload and clipboard copy to take place, you must ensure that the apps API URL is pointing to your server. ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/preferences.png)
+In order for the upload and clipboard copy to take place, you must ensure that the apps API URL is pointing to your server.
+
+![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/preferences.png)
 
