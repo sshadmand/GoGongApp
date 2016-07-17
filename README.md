@@ -15,7 +15,7 @@ After starting the app it will show up in your menubar. Click the icon to displa
 
 ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/menu.png)
 
-Then select preferences and inpuy the correct server address:
+Then select preferences and input the correct server address:
 
 ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/preferences.png)
 
