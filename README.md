@@ -15,7 +15,7 @@ After starting the app it will show up in your menubar. Click the icon to displa
 
 ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/menu.png)
 
-Then select preferences and input the correct server address (the default is set to your localhost:8000 for development):
+Then select preferences and input the correct server address (the default is set to your localhost:8000 for development. Learn more about [the GoGong Server](https://github.com/sshadmand/GoGongServer)):
 
 ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/preferences.png)
 
