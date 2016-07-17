@@ -19,3 +19,7 @@ Then select preferences and input the correct server address:
 
 ![Prefernces](https://github.com/sshadmand/GoGong/raw/gh-pages/images/preferences.png)
 
+### Just Use Screen Capture
+
+The app listens for screen captures on your mac. Simply use the standard screen capture tool. You can learn more about the built in Mac screen capture tool here: https://support.apple.com/en-us/HT201361
+
